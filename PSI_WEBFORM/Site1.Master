@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="PSI_WEBFORM.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="./Content/css.css" rel="stylesheet" />
+    <script src="./Scripts/jquery-1.8.2.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="page">
+            <div id="header">
+                <div id="banner">
+                </div>
+                <ul id="nav">
+                    <li><a href="./Index.aspx">STOCK STATUS</a></li>
+                    <li><a href="./PartStockUpdate.aspx">UPDATE STOCK</a></li>
+                    <li><a href="./MoldSchedule.aspx">MOLD SCHEDULE</a></li>
+                    <li><a href="./PartAdd.aspx">PART MANAGEMENT</a></li>
+                    <li><a href="./MoldAdd.aspx">MOLD MANAGEMENT</a></li>
+                    <li style="float:right;">
+
+                        <asp:HyperLink ID="hlLink" runat="server" NavigateUrl="~/Login.aspx"></asp:HyperLink>
+                        <ul class="sub-menu">
+                            <li><a href="./ChangeUser.aspx">Change Password</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div id="body">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

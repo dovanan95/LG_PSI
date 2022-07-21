@@ -1,0 +1,170 @@
+﻿body {
+    font-size: 12px;
+    font-family: Arial;
+}
+
+#page {
+    width: 90%;
+    margin: 0px auto;
+}
+
+#header {
+}
+
+#banner {
+    height: 50px;
+    width: 100%;
+    background-image: url('Image/PSI Banner.jpg');
+    background-repeat: no-repeat;
+}
+
+#body {
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+    #nav li {
+        float: left;
+    }
+
+        #nav li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 16px;
+            text-decoration: none;
+        }
+
+            #nav li a:hover {
+                background-color: #111111;
+            }
+
+.td-label {
+}
+
+.td-control {
+}
+
+.td-tip {
+}
+
+.control-input {
+    width: 200px;
+}
+
+.control-dropdownlist {
+    width: 200px;
+}
+
+.control-button {
+}
+
+.list-data {
+    max-height: 300px;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.table-list {
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-spacing: 0px;
+}
+
+    .table-list td, th {
+        border-right: 1px solid #ccc;
+        border-top: 1px solid #ccc;
+    }
+
+.table-shedule {
+    border-spacing: 0px;
+    margin-top: 5px;
+    border-left: 1px solid #2370a8;
+    border-bottom: 1px solid #2370a8;
+    width: 165%;
+}
+/*.scrollbar1{
+    width: 100%;
+	overflow-x: scroll;
+}*/
+.scrollbar{
+    height: 480px;
+	overflow-y: scroll;
+    
+}
+.sizetool{
+    width : 3%;
+    font-weight: bold;
+}
+.sizetool1{
+    width: 5%;
+    font-weight: bold;
+}
+.sizetool2{
+    font-weight: bold;
+    width: 4%;
+}
+.sizetool3{
+    width: 2%;
+    font-weight: bold;
+}
+.sizetool4{
+    font-weight: bold;
+    width: 3%;
+}
+
+
+    .table-shedule td, th {
+        border-right: 1px solid #2370a8;
+        padding: 2px;
+        border-top: 1px solid #2370a8;
+        font-size: 10px;
+        text-align: center;
+    }
+
+
+.table-title {
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #2370a8;
+    color: #fff;
+    padding: 5px;
+}
+
+.table-list1 {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.text-small {
+    width: 50px;
+    font-weight: bold;
+}
+/*.size{
+    width: 70px;
+}*/
+.day {
+    font-weight: bold;
+    width: 2%; 
+}
+
+.no-schedule {
+    background-color: #ccc;
+}
+
+.shortage-stock {
+    background-color: #ff6a00;
+    color: #fff;
+}
+
+.partnumber {
+    font-weight: bold;
+}

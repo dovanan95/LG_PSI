@@ -1,0 +1,210 @@
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\PSI_WEBFORM.dll.config
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\PSI_WEBFORM.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\PSI_WEBFORM.pdb
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.Core.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\EntityFramework.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\EntityFramework.SqlServer.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\Microsoft.Web.Infrastructure.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\System.Net.Http.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\System.Net.Http.WebRequest.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\System.Web.Providers.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\System.Net.Http.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\System.Net.Http.WebRequest.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\EntityFramework.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\EntityFramework.SqlServer.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\System.Web.Providers.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.Core.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\obj\Release\PSI_WEBFORM.csprojResolveAssemblyReference.cache
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\obj\Release\PSI_WEBFORM.dll
+D:\Document\10.Application\PSI_WEBFORM\PSI_WEBFORM\obj\Release\PSI_WEBFORM.pdb
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\PSI_WEBFORM.dll.config
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\PSI_WEBFORM.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\PSI_WEBFORM.pdb
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.Core.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\EntityFramework.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\EntityFramework.SqlServer.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\Microsoft.Web.Infrastructure.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\System.Net.Http.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\System.Net.Http.WebRequest.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\System.Web.Providers.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\System.Net.Http.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\System.Net.Http.WebRequest.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\EntityFramework.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\EntityFramework.SqlServer.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\System.Web.Providers.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.Core.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\PSI_WEBFORM\PSI_WEBFORM\obj\Release\PSI_WEBFORM.csprojResolveAssemblyReference.cache
+D:\PSI_WEBFORM\PSI_WEBFORM\obj\Release\PSI_WEBFORM.dll
+D:\PSI_WEBFORM\PSI_WEBFORM\obj\Release\PSI_WEBFORM.pdb
+D:\Code_0206\PSI_WEBFORM\bin\PSI_WEBFORM.dll.config
+D:\Code_0206\PSI_WEBFORM\bin\PSI_WEBFORM.dll
+D:\Code_0206\PSI_WEBFORM\bin\PSI_WEBFORM.pdb
+D:\Code_0206\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.dll
+D:\Code_0206\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.dll
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.Core.dll
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.dll
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.dll
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Code_0206\PSI_WEBFORM\bin\EntityFramework.dll
+D:\Code_0206\PSI_WEBFORM\bin\EntityFramework.SqlServer.dll
+D:\Code_0206\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Code_0206\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\Code_0206\PSI_WEBFORM\bin\Microsoft.Web.Infrastructure.dll
+D:\Code_0206\PSI_WEBFORM\bin\System.Net.Http.dll
+D:\Code_0206\PSI_WEBFORM\bin\System.Net.Http.WebRequest.dll
+D:\Code_0206\PSI_WEBFORM\bin\System.Web.Providers.dll
+D:\Code_0206\PSI_WEBFORM\bin\System.Net.Http.xml
+D:\Code_0206\PSI_WEBFORM\bin\System.Net.Http.WebRequest.xml
+D:\Code_0206\PSI_WEBFORM\bin\EntityFramework.xml
+D:\Code_0206\PSI_WEBFORM\bin\EntityFramework.SqlServer.xml
+D:\Code_0206\PSI_WEBFORM\bin\System.Web.Providers.xml
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.Core.xml
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.xml
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.xml
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Code_0206\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.xml
+D:\Code_0206\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\Code_0206\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Code_0206\PSI_WEBFORM\obj\Release\PSI_WEBFORM.csprojResolveAssemblyReference.cache
+D:\Code_0206\PSI_WEBFORM\obj\Release\PSI_WEBFORM.dll
+D:\Code_0206\PSI_WEBFORM\obj\Release\PSI_WEBFORM.pdb
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\PSI_WEBFORM.dll.config
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\PSI_WEBFORM.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\PSI_WEBFORM.pdb
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.Core.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\EntityFramework.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\EntityFramework.SqlServer.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\Microsoft.Web.Infrastructure.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\System.Net.Http.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\System.Net.Http.WebRequest.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\System.Web.Providers.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\System.Net.Http.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\System.Net.Http.WebRequest.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\EntityFramework.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\EntityFramework.SqlServer.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\System.Web.Providers.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.Core.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\obj\Release\PSI_WEBFORM.csprojResolveAssemblyReference.cache
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\obj\Release\PSI_WEBFORM.dll
+D:\PSI Version 3.1\PSI_13042018_2\PSI_WEBFORM\obj\Release\PSI_WEBFORM.pdb
+E:\PSI_16042018\PSI_WEBFORM\bin\PSI_WEBFORM.dll.config
+E:\PSI_16042018\PSI_WEBFORM\bin\PSI_WEBFORM.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\PSI_WEBFORM.pdb
+E:\PSI_16042018\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.Core.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\EntityFramework.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\EntityFramework.SqlServer.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\Microsoft.Web.Infrastructure.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\System.Net.Http.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\System.Net.Http.WebRequest.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\System.Web.Providers.dll
+E:\PSI_16042018\PSI_WEBFORM\bin\System.Net.Http.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\System.Net.Http.WebRequest.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\EntityFramework.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\EntityFramework.SqlServer.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\System.Web.Providers.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.Core.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\PSI_16042018\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\PSI_16042018\PSI_WEBFORM\obj\Release\PSI_WEBFORM.csprojResolveAssemblyReference.cache
+E:\PSI_16042018\PSI_WEBFORM\obj\Release\PSI_WEBFORM.dll
+E:\PSI_16042018\PSI_WEBFORM\obj\Release\PSI_WEBFORM.pdb
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\PSI_WEBFORM.dll.config
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\PSI_WEBFORM.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\PSI_WEBFORM.pdb
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.Core.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\EntityFramework.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\EntityFramework.SqlServer.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\Microsoft.Web.Infrastructure.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\System.Net.Http.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\System.Net.Http.WebRequest.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\System.Web.Providers.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\System.Net.Http.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\System.Net.Http.WebRequest.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\EntityFramework.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\EntityFramework.SqlServer.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\System.Web.Providers.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.Core.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\DotNetOpenAuth.AspNet.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\obj\Release\PSI_WEBFORM.csprojResolveAssemblyReference.cache
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\obj\Release\PSI_WEBFORM.dll
+E:\PSI_16042018_ Chua fix\PSI_WEBFORM\obj\Release\PSI_WEBFORM.pdb

@@ -1,0 +1,46 @@
+﻿
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+    <script type="text/javascript" src="stickytooltip.js">
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="stickytooltip.css" />
+</head>
+<body>
+
+    <p>Some page contents here...</p>
+
+    <p><a href="http://en.wikipedia.org/wiki/Thailand" data-tooltip="sticky1">Thailand</a></p>
+    <p><a href="http://en.wikipedia.org/wiki/British_columbia" data-tooltip="sticky2">British Columbia</a></p>
+    <p><img src="http://img403.imageshack.us/img403/3403/redleaves.jpg" data-tooltip="sticky3" /></p>
+
+    <p>Some page contents here...</p>
+
+    <!--HTML for the tooltips-->
+    <div id="mystickytooltip" class="stickytooltip">
+        <div style="padding:5px">
+
+            <div id="sticky1" class="atip" style="width:200px">
+                <img src="http://img121.imageshack.us/img121/746/thailand.jpg" /><br />
+                Thailand boasts some of the most popular and luxurious resorts in Asia.
+            </div>
+
+            <div id="sticky2" class="atip" style="width:262px">
+                <img src="http://img686.imageshack.us/img686/7383/vancouver.jpg" /><br />BC is the westernmost of Canada's provinces and is famed for its natural beauty.<b><a href="http://en.wikipedia.org/wiki/Vancouver">Vancouver</a></b> is BC's largest city.
+            </div>
+
+            <div id="sticky3" class="atip">
+                <img src="http://img339.imageshack.us/img339/2488/redleaveslarge.jpg" />
+            </div>
+
+        </div>
+
+        <div class="stickystatus"></div>
+    </div>
+
+</body>
+</html>
